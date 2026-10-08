@@ -1,0 +1,6 @@
+{
+  "name": "WebOrbit - Universal Web Browser & HTML Sandbox",
+  "description": "مرورگر وب همه‌کاره با پروکسی ضد محدودیت فریم برای باز کردن تمام وب‌سایت‌ها، تب‌های چندگانه، بازرس زنده HTML، نشانک‌ها و پیش‌نمایش ریسپانسیو.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
